@@ -1,2 +1,2 @@
-# 131-in-one_JP
-131 key keyboard(JP)
+# 136-in-one_JP
+136 key keyboard(JP)
